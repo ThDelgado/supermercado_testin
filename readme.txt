@@ -6,6 +6,7 @@ evaluacion
 m7_s12
 
 Para clonar:
+https://github.com/ThDelgado/supermercado_testin.git
 
 
 Thelma Delgado
